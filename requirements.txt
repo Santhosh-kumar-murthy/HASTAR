@@ -1,0 +1,10 @@
+PyMySQL~=1.1.1
+smartapi-python
+pyotp~=2.9.0
+logzero
+websocket
+pandas_ta
+pandas~=2.2.3
+numpy==1.26.4
+requests~=2.32.3
+python-dateutil~=2.9.0.post0
